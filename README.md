@@ -1,0 +1,1 @@
+# my-tmpl-for-project
